@@ -131,7 +131,7 @@ transeq ${TE_fasta_dir}/TE_speciesid.fa ${cand_proteins}/TE_speciesid.pep -frame
 ### Step 4: HMM Search for Transposase Domains
 Prepare HMM models for transposase superfamilies (see table below in query for domains like MULE, CACTA, etc.).
 
-superfamily	Pfam	Domain name	Length of TSD (bp)	Note
+superfamily	Pfam_Domain name	Length_of_TSD_(bp)	Note
 
 MULE	PF10551	MULE	9-15	
 
